@@ -6,6 +6,8 @@
 
 ## Procedure
 
+*This tutorial assumes you have already downloaded and installed the required materials.*
+
 ### Phase 1: Creating a Virtual Machine
 
 <img src="art/creation/1-main.png">
