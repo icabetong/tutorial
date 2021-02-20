@@ -2,4 +2,5 @@
 
 * [Creating and Installing Windows Server on VirtualBox](installing.md)
 * [Setting-up a Static IP Address](static-ip.md)
-* [Enabling Active Directory, DNS Server and DHCP Server](enabling-features.md)
+* [Enable and Configure Active Directory and DNS Server](enable-active-directory.md)
+* [Enable DHCP Server](enable-dhcp.md)
