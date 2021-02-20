@@ -2,7 +2,11 @@
 
 ## Procedure
 
-### *This guide assumes that you have already setup a static IP on the server. If you didn't, follow [this](static-ip.md) guide.*
+```
+This guide assumes that you have already setup a static IP on the server. If you didn't, follow [this](static-ip.md) guide.
+```
+
+### **Adding through the Server Manager**
 
 <img src="art/enabling-features/1-find-server-manager.png">
 
@@ -55,3 +59,48 @@
 <img src="art/enable-dhcp/13-commit.png">
 
 **Step 13**. Click `Close`.
+
+### **Configuration**
+
+<img src="art/enable-dhcp/14-dhcp-man.png">
+
+**Step 14**. Click `Tools` in the upper part of the interface then click `DHCP`.
+
+<img src="art/enable-dhcp/15-new-scope.png">
+
+**Step 15**. Expand the server then right click `IPv4`, then click `New Scope` in the context menu.
+
+<img src="art/enable-dhcp/16-wizard.png">
+
+**Step 16**. Type in a name for the scope.
+
+<img src="art/enable-dhcp/17-range.png">
+
+**Step 17**. Enter the range of addresses that the scope distributes. Then type the length then click `Next`.
+
+<img src="art/enable-dhcp/18-exclusions.png">
+
+**Step 18**. If there are any excluded address, add them here. If you are done, click `Next`.
+
+<img src="art/enable-dhcp/19-lease.png">
+
+**Step 19**. Click next.
+
+<img src="art/enable-dhcp/20-gateway.png">
+
+**Step 20**. Enter the IP Address of the router.
+
+<img src="art/enable-dhcp/22-get-domain-name.png">
+<img src="art/enable-dhcp/21-domain.png">
+
+**Step 21**. Enter the domain name and its address.
+```
+Hint: The domain name is the PC name in the About section in the Settings app.
+```
+<img src="art/enable-dhcp/23-wins.png">
+
+**Step 22**. Click next.
+
+<img src="art/enable-dhcp/24-activate.png">
+
+**Step 23**. Leave the current selection then click next.

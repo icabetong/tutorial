@@ -2,7 +2,9 @@
 
 ## Procedure
 
-### *This guide assumes that you have already setup a static IP on the server. If you didn't, follow [this](static-ip.md) guide.*
+```
+This guide assumes that you have already setup a static IP on the server. If you didn't, follow [this](static-ip.md) guide.
+```
 
 <img src="art/enabling-features/1-find-server-manager.png">
 
