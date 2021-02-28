@@ -2,6 +2,10 @@
 
 ## Procedure
 
+<img src="art/configure-dhcp/0-connect.png">
+
+**Step 0**. Connect to a network, a mobile hostpot will suffice.
+
 <img src="art/configure-dhcp/1-go-to-settings.png">
 
 **Step 1**. Go to the Virtual Machine Settings by click the `Settings` button in the top. Note that the Virtual Machine needs to be powered off to change some settings.
