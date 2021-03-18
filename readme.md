@@ -8,3 +8,4 @@
 
 ## Practical
 * [Install Windows 10](installing-client.md)
+* [Connecting the Client to the Domain](connect-to-domain.md)

@@ -87,3 +87,5 @@ en_windows_10_pro_14393_x64_dvd.iso
 **Step 10**. Click `New` to create a new partition. A warning appears which wants you to give the permission to system to create a drive for system files. Click on `Ok` button, if you want to add more drives do this process again. When finished hit Next.
 
 <img src="art/install-server/12-wait.png">
+
+**Step 11**. Wait for the installation to finish. After a couple of restarts, setup everything as necessary, do NOT login with a Microsoft account.
