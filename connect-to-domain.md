@@ -30,6 +30,10 @@
 
 **Step 6**. Enter the credentials for the server on the client. `administrator` will likely be the username as it is the default. Enter also the domain name.
 
-<img src="art/connect-domain/7-restart.png">
+<img src="art/connect-domain/7-do-not-add.png">
 
-**Step 7**. If all information are correct, you will be prompted to restart the virtual machine.
+**Step 7**. If prompted, do not add the account.
+
+<img src="art/connect-domain/8-restart.png">
+
+**Step 8**. If all information are correct, you will be prompted to restart the virtual machine.
